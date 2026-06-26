@@ -178,6 +178,6 @@ AI-SaaS-Growth-Analytics
 
 ---
 
-## Author
+
 
 Developed as a portfolio project to demonstrate end-to-end Data Analytics, Machine Learning, and Business Intelligence using SQL, Python, and Power BI.
